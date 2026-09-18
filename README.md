@@ -6,10 +6,16 @@ Hi, I'm a 19-year-old French student currently in my second year at the IUT of O
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
+### Languages & Technologies I'm learning
+
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+
 
 ### How to reach me
 
 * **Discord:** Bestarr
 * **Email:** raphael.lebihan37@gmail.com
 * **University Email:** raphael.le-bihan@etu.univ-orleans.fr
-* **LinkedIn / Portfolio:** https://www.linkedin.com/in/rapha%C3%ABl-le-bihan-39b7403a0/
+* **LinkedIn:** www.linkedin.com/in/raphaël-le-bihan
