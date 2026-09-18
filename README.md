@@ -1,4 +1,4 @@
-#Hello there ✨
+# Hello there ✨
 
 Hi, I'm a 19-year-old French student currently in my second year at the IUT of Orléans 🏢. I wrote my first lines of code in a class when I was 15 and instantly fell in love with it. Since then, I've been building my logic and technical skills, specifically in web development and database management.
 
