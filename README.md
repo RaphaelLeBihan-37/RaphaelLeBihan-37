@@ -6,7 +6,7 @@ Hi, I'm a 19-year-old French student currently in my second year at the IUT of O
 
 * **Python / Pygame Project:** Design of an AI for a 2D Splatoon game ᔦꙬᔨ 
 * **LEGO Database Project:** Exploitation and management of a LEGO database using SQL / MySQL 🧱
-* **LEGO Web Application Project:** Management web application for collectors based on the LEGO database using **Java, JavaFX, JDBC, and MySQL** 🧱🗂️
+* **LEGO Application Project:** Management web application for collectors based on the LEGO database using **Java, JavaFX, JDBC, and MySQL** 🧱🗂️
 
 ## Languages and tools I know and use ⚒️
 
