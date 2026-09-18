@@ -1,16 +1,14 @@
-## Hi there 👋
+Hi, I'm a 19-year-old French student currently in my second year at the IUT of Orléans ✨. I wrote my first lines of code in a class when I was 15 and instantly fell in love with it. Since then, I've been building my logic and technical skills, specifically in web development and database management.
 
-<!--
-**RaphaelLeBihan-37/RaphaelLeBihan-37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### How to reach me
 
-Here are some ideas to get you started:
+* **Discord:** `[Ton pseudo Discord]`
+* **Email:** `[Ton adresse email]`
+* **University Email:** `[Ton email @etu.univ-orleans.fr]`
+* **LinkedIn / Portfolio:** `[Lien vers tes réseaux]`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages I know and use
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)
